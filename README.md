@@ -18,3 +18,14 @@ git commit -m "Commit message"
 git push origin branchName
 
 git status
+
+login feature => UI => commit => UI completed
+, functionality => functionality integrated
+
+ls=> list all files
+
+git branch "nameOfBranch"
+
+git branch --list => list all branches
+
+git checkout branchName
